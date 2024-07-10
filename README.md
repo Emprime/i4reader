@@ -17,4 +17,4 @@ The benchmark provides a structured pipeline for dataset preparation, annotation
 ## i4SQ
 
 The i4SQ is a tool to automatically analyze CT images (dicom or nifti format) for vertebral fractures.
-It is publicly available as a streamlit demo at https://github.com/ErenBYilmaz/i4SQ
+It will be made publicly available soon as a streamlit demo.
