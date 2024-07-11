@@ -1,6 +1,7 @@
 # i4reader
 
-Collective Repository for the I4Reader of the ARTMIS project
+Collective Repository for the I4Reader of the ARTEMIS project, financially supported by the Federal Ministry of Education and Research funded by the (grant 01EC1908C).
+Not for clinical use.
 
 ## Data-Processing and Data-Labeling
 
@@ -17,4 +18,10 @@ The benchmark provides a structured pipeline for dataset preparation, annotation
 ## i4SQ
 
 The i4SQ is a tool to automatically analyze CT images (dicom or nifti format) for vertebral fractures.
-It will be made publicly available soon as a streamlit demo.
+The i4SQ-Pipeline was published as
+
+[1](https://link.springer.com/chapter/10.1007/978-3-030-87589-3_39) E. B. Yilmaz et al., “Automated Deep Learning-Based Detection of Osteoporotic Fractures in CT Images,” in Machine Learning in Medical Imaging, Cham: Springer International Publishing, 2021, pp. 376–385.
+
+[2](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12465/2653526/Towards-fracture-risk-assessment-by-deep-learning-based-classification-of/10.1117/12.2653526.short) E. B. Yilmaz et al., “Towards fracture risk assessment by deep-learning-based classification of prevalent vertebral fractures,” in Medical Imaging 2023: Computer-Aided Diagnosis, K. M. Iftekharuddin and W. Chen, Eds., in Proc. of SPIE, vol. 12465. San Diego, United States: SPIE, Apr. 2023. doi: 10.1117/12.2653526.
+
+It is available as a Streamlit-based demo upon request from the authors.
